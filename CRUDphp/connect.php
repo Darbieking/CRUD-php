@@ -1,15 +1,15 @@
 <?php
 
-define('DB_HOST', '127.0.0.1:4306');
+define('DB_HOST', '#####');
 // Define the database host
 
-define('DB_USER', 'babym');
+define('DB_USER', '#####');
 // Define the database username
 
-define('DB_PASS', 'jesusgod');
+define('DB_PASS', '#####');
 // Define the database password
 
-define('DB_NAME', 'crudoperations');
+define('DB_NAME', '#####');
 // Define the database name
 
 // Creating connection
