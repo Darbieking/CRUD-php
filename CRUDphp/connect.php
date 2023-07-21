@@ -1,5 +1,6 @@
 <?php
 
+// Add Your Database Details Below
 define('DB_HOST', '#####');
 // Define the database host
 
